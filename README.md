@@ -1,3 +1,5 @@
+pip install pygame
+
 import pygame
 import random
 
@@ -124,6 +126,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+python space_invaders.py
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
